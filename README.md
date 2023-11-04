@@ -2,7 +2,7 @@
 
 I'm Kaustubh, and this is my GitHub profile. 
 
-🌱 I'm currently learning GoLang.
+🌱 I'm currently learning R language.
 
 💬 Ask me or recommend about Web designing.
 
