@@ -1,10 +1,10 @@
-# Hi there! 👋
+Hi there! 👋
 
 I'm Kaustubh, and this is my GitHub profile. 
 
-🌱 I'm currently learning R language.
+🌱 I'm currently learning Go language.
 
-💬 Ask me or recommend about Web designing.
+💬 Ask or recommend me about Web development and Data Science.
 
 📫 You can reach me at my [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
 
