@@ -1,13 +1,11 @@
-Hi there! 👋
+Hi there! 
 
-I'm Kaustubh, and this is my GitHub profile. 
+I'm Kaustubh, welcome to my GitHub profile. 
 
-🌱 I'm currently learning Go language.
+- I'm currently learning Data Visualization.
 
-💬 Ask or recommend me about Web development and Data Science.
+- Ask or recommend me about Python, Tableau, MS-Excel and SQL.
 
-📫 You can reach me at my [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
+- You can reach me at my [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
 
-[LinkedIn](www.linkedin.com/in/kaustubh-ds) | [GitHub](www.github.com/kaustubh-ds)
-
-🚀 Happy coding!
+[LinkedIn](www.linkedin.com/in/kaustubh-ds) | [Tableau Public](www.public.tableau.com/app/profile/kaustubh.salunkhe/vizzes)
