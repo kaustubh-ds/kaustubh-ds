@@ -8,4 +8,4 @@ I'm Kaustubh, welcome to my GitHub profile.
 
 - You can reach me at my [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
 
-[LinkedIn](www.linkedin.com/in/kaustubh-ds) | [Tableau Public](www.public.tableau.com/app/profile/kaustubh.salunkhe/vizzes)
+[LinkedIn](https://www.linkedin.com/in/kaustubh-ds/) | [Tableau Public](https://public.tableau.com/app/profile/kaustubh.salunkhe/vizzes)
