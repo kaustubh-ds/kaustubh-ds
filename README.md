@@ -1,11 +1,10 @@
-Hi there! 
+# I'm Kaustubh!
+Data Analytics & Visualization
 
-I'm Kaustubh, welcome to my GitHub profile. 
+### Tech Stack: 
+- SQL (PostgreSQL, MySQL)
+- Power BI/Tableau
+- Advanced Excel
+- Python
 
-- I'm currently learning Data Visualization.
-
-- Ask or recommend me about SQL, Power BI/Tableau, MS-Excel and Python.
-
-- You can reach me at my [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/kaustubh-ds/) | [Tableau Public](https://public.tableau.com/app/profile/kaustubh.salunkhe/vizzes)
+[LinkedIn](https://www.linkedin.com/in/kaustubh-ds/) | [Tableau Public](https://public.tableau.com/app/profile/kaustubh.salunkhe/vizzes) | [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
