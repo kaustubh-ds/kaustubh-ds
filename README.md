@@ -9,4 +9,4 @@ Data Analytics & Visualization
 - Advanced Excel
 - Python
 
-[Portfolio](https://kaustubh-ds.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/kaustubh-ds/) | [Tableau Public](https://public.tableau.com/app/profile/kaustubh.salunkhe/vizzes) | [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
+[Portfolio](https://kaustubh-ds.github.io/) | [LinkedIn](https://www.linkedin.com/in/kaustubh-ds/) | [Tableau Public](https://public.tableau.com/app/profile/kaustubh.salunkhe/vizzes) | [E-mail](mailto:kaustubhdsalunkhe@gmail.com)
