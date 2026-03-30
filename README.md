@@ -3,6 +3,8 @@ Data Analytics & Visualization
 
 ### Tech Stack: 
 - SQL (PostgreSQL, MySQL)
+- BigQuery, Google Analytics 4
+- Shopify Analytics
 - Power BI/Tableau
 - Advanced Excel
 - Python
